@@ -1,0 +1,9 @@
+gradio
+opencv-contrib-python-headless
+numpy
+rembg
+pillow
+torch
+onnxruntime
+# 如果 ModelScope 报错，请取消下行注释
+# modelscope
